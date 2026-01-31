@@ -1,4 +1,4 @@
- ## Hey, I’m Higor
+## Hey, I’m Higor <img src="assets/blob-wave.gif" width="30" alt="waveEmoji"> 
  
  I’m a software developer based in Brazil, focused on backend development and building well-structured APIs. 
  I enjoy turning ideas into working systems — clean, scalable, and easy to reason about. 
