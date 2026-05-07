@@ -1,6 +1,8 @@
 ## Hey, I’m Higor <img src="assets/blob-wave.gif" width="30" alt="waveEmoji"> 
  
- I’m a software developer based in Brazil, focused on backend development and building well-structured APIs. 
- I enjoy turning ideas into working systems — clean, scalable, and easy to reason about. 
- If something sparks my curiosity, I’ll usually dive deep, break it apart, and build my own version to truly understand how it works. 
- My main stack revolves around **C#, .NET, REST APIs, and application architecture**. I care a lot about **clean code, separation of concerns, and long-term maintainability**. 
+Backend developer based in Brazil, building REST APIs with .NET and ASP.NET Core.
+I care about structure — Clean Architecture, CQRS, and proper separation of concerns aren't buzzwords to me, they're how I actually organize my projects. I work with MediatR, FluentValidation, Dapper, EF Core, and JWT + Argon2id on a daily basis.
+
+When something interests me, I don't just read about it — I build it. Both projects pinned below are fully functional APIs I wrote from scratch, including unit tests with xUnit, Moq, and FluentAssertions.
+
+Currently looking for my first professional role.
