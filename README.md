@@ -1,164 +1,60 @@
 <div align="center">
 
-```
-██╗  ██╗██╗ ██████╗  ██████╗ ██████╗     ██████╗ ███████╗██╗      ██████╗
-██║  ██║██║██╔════╝ ██╔═══██╗██╔══██╗    ██╔══██╗██╔════╝██║     ██╔═══██╗
-███████║██║██║  ███╗██║   ██║██████╔╝    ██████╔╝█████╗  ██║     ██║   ██║
-██╔══██║██║██║   ██║██║   ██║██╔══██╗    ██╔══██╗██╔══╝  ██║     ██║   ██║
-██║  ██║██║╚██████╔╝╚██████╔╝██║  ██║    ██████╔╝███████╗███████╗╚██████╔╝
-╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚═════╝ ╚══════╝╚══════╝ ╚═════╝
-```
+# Higor Belo
 
-### Backend Developer · API Specialist · .NET Enthusiast
+### Desenvolvedor Backend .NET
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+robust+and+scalable+APIs+%F0%9F%9A%80;Clean+Architecture+%7C+CQRS+%7C+DDD;Turning+ideas+into+high-performance+code;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+Construo APIs seguras e manuteníveis, do domínio à infraestrutura em nuvem.
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40hifye-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hifye)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Higor%20Belo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-belo/)
-[![Location](https://img.shields.io/badge/📍-Brasil-6366f1?style=for-the-badge)](https://github.com/hifye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fale_comigo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-belo/)
+[![GitHub](https://img.shields.io/badge/GitHub-hifye-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hifye)
+![Localização](https://img.shields.io/badge/Brasil-Disponível_para_oportunidades-009C3B?style=flat-square)
 
 </div>
 
----
+## O que eu entrego
 
-## 👨‍💻 Sobre mim
+Desenvolvo backends em **C# e ASP.NET Core**, transformando regras de negócio em APIs bem estruturadas, testáveis e preparadas para evoluir. Trabalho com autenticação, bancos relacionais, observabilidade, containers e infraestrutura como código — sem aplicar padrões arquiteturais apenas por moda.
 
-```csharp
-public class HigorBelo : BackendDeveloper
-{
-    public string[] CurrentFocus   => ["Clean Architecture", "Scalable APIs", "Cloud & DevOps"];
-    public string[] Passions       => ["System Design", "Performance", "DDD", "CQRS"];
-    public string   Location       => "Brasil 🇧🇷";
-    public string   Motto          => "Build. Break. Fix. Learn.";
-    public bool     OpenToWork     => true;
-}
-```
+`APIs REST` · `ASP.NET Core` · `Arquitetura Modular` · `CQRS` · `PostgreSQL` · `AWS` · `Docker` · `Terraform`
 
-Desenvolvedor Backend apaixonado por construir sistemas **robustos, escaláveis e eficientes**. Me especializo em **APIs RESTful** com .NET, aplicando boas práticas de arquitetura para criar soluções que realmente funcionam em produção. Acredito que código limpo não é luxo — é responsabilidade.
+## Projeto principal
 
----
+### [PersonalFinance API](https://github.com/hifye/personalfinance-api)
 
-## 🛠️ Tech Stack
+API de finanças pessoais construída como **monólito modular**, com isolamento dos dados por usuário e uma infraestrutura AWS reproduzível.
 
-### 💻 Linguagens & Frameworks
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+- **Backend:** .NET 10, Minimal APIs, Dapper, PostgreSQL, MediatR e FluentValidation
+- **Segurança:** JWT, rotação de refresh tokens, Argon2id, rate limiting e mascaramento de dados sensíveis em logs
+- **Qualidade:** testes unitários e de integração com xUnit e Testcontainers
+- **Operação:** Docker, Flyway, Serilog, health checks e CI/CD com GitHub Actions
+- **Cloud:** ECS Fargate, RDS, ECR, Secrets Manager e Terraform
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[**Ver arquitetura e código →**](https://github.com/hifye/personalfinance-api)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+## Outro projeto
 
-### 🧠 Arquitetura & Padrões
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=archlinux&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-000000?style=for-the-badge&logo=data&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### [Elevate](https://github.com/hifye/Elevate)
+
+API para gestão de cursos, instrutores e inscrições. Demonstra **Clean Architecture**, CQRS, autenticação JWT, validações em pipeline, logging estruturado e integração com PostgreSQL e SQL Server.
+
+[**Explorar o projeto →**](https://github.com/hifye/Elevate)
+
+## Stack
+
+**Backend:** C# · .NET · ASP.NET Core · Minimal APIs · MediatR · FluentValidation  
+**Dados:** PostgreSQL · SQL Server · MySQL · Dapper · Flyway  
+**Cloud & DevOps:** AWS · Docker · Terraform · GitHub Actions  
+**Qualidade & Segurança:** xUnit · Testcontainers · JWT · Argon2id · Serilog
 
 ---
-
-## 🚀 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 [Elevate](https://github.com/hifye/Elevate)
-> API REST para gestão de cursos e inscrições
-
-**Stack:** `.NET` `PostgreSQL` `SQL Server` `JWT`
-
-**Destaques:**
-- ✅ Clean Architecture na prática
-- ✅ CQRS + MediatR pattern
-- ✅ JWT Authentication
-- ✅ FluentValidation
-- ✅ APIs escaláveis e de alta performance
-
-</td>
-<td width="50%">
-
-### 💰 [PersonalFinance](https://github.com/hifye/PersonalFinance)
-> Infraestrutura segura para finanças pessoais ✅ **Concluído**
-
-**Stack:** `C#` `Terraform` `Docker` `AWS`
-
-**Destaques:**
-- ✅ IaC com Terraform (HCL)
-- ✅ AWS RDS + Migrations
-- ✅ Secrets Manager integrado
-- ✅ Application Load Balancer
-- ✅ Segurança como prioridade
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 [FinTrack](https://github.com/hifye/FinTrack)
-> Acompanhamento financeiro inteligente
-
-**Stack:** `C#`
-
-**Destaques:**
-- ✅ Gestão de dados financeiros
-- ✅ Conceitos de UI aplicados ao backend
-- ✅ Arquitetura orientada a dados
-
-</td>
-<td width="50%">
-
-### 💰 [PersonalFinance](https://github.com/hifye/PersonalFinance)
-> Infraestrutura segura para finanças pessoais ✅ **Concluído**
-
-**Stack:** `C#` `Terraform` `Docker` `AWS`
-
-**Destaques:**
-- ✅ IaC com Terraform (HCL)
-- ✅ AWS RDS + Migrations
-- ✅ Secrets Manager integrado
-- ✅ Application Load Balancer
-- ✅ Segurança como prioridade
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Foco Atual
-
-```
-🔭 Aprofundando conhecimentos em System Design e arquiteturas distribuídas
-🌱 Explorando microsserviços e event-driven architecture
-☁️  Expandindo expertise em AWS (certificações no radar)
-📚 Estudando Domain-Driven Design (DDD) na prática
-🤝 Aberto a colaborações em projetos open source
-```
-
----
-
-## 🤝 Vamos Conversar?
 
 <div align="center">
 
-Estou sempre aberto a novas conexões, colaborações e oportunidades desafiadoras.
+Busco oportunidades para contribuir com produtos backend em **.NET**, especialmente em times que valorizam qualidade técnica, segurança e decisões arquiteturais pragmáticas.
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-belo/)
-[![GitHub](https://img.shields.io/badge/Vê%20meu%20código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hifye)
+### [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/higor-belo/)
 
-<br/>
-
----
-
-<sub>⚡ <em>"Build. Break. Fix. Learn."</em> — A jornada contínua de um desenvolvedor.</sub>
+<sub>Brasil · Disponível para novas oportunidades</sub>
 
 </div>
