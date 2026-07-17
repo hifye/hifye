@@ -97,15 +97,3 @@ API para gestão de cursos, instrutores e inscrições. Demonstra **Clean Archit
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-Busco oportunidades para contribuir com produtos backend em **.NET**, especialmente em times que valorizam qualidade técnica, segurança e decisões arquiteturais pragmáticas.
-
-### [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/higor-belo/)
-
-<sub>Brasil · Disponível para novas oportunidades</sub>
-
-</div>
